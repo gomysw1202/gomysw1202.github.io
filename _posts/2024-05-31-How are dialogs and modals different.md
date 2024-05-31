@@ -1,7 +1,7 @@
-```
+---
 layout: single
 title: "How are dialogs and modals different?"
-```
+---
 
 - A dialog still allows a user to interact with other content on the page while it's open (i.e. click buttons and links visible around the dialog)
 - A modal locks down the page until something is done. This is typically done with a background that covers all other content so the modal must be dealt with. This is the more disruptive of the two options.
